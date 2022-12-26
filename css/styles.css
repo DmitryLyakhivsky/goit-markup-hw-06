@@ -940,6 +940,7 @@ button {
 
 
 .footer-label-subscribe {
+    
     margin-bottom: 20px;
     font-weight: 700;
     text-transform: uppercase;
@@ -953,7 +954,8 @@ button {
     border: 1px solid rgba(255, 255, 255, 0.3);
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
     border-radius: 4px;
-
+    
+    
     color: var(--hero-overlay-color);
     background-color: var(--footer-bg-color);
 
