@@ -543,11 +543,12 @@ button {
 
 .footer-items-flex {
     display: flex;
+    gap: 94px;
     align-items: baseline;
 }
 
 .footer-item-address {
-    margin-right: 70px;
+    /* margin-right: 70px; */
 }
 
 
@@ -928,7 +929,7 @@ button {
 .footer-form-subscribe {
     display: flex;
     
-    margin-left: auto;
+    /* margin-left: auto; */
     align-items: flex-end;
 }
 
