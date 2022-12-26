@@ -927,6 +927,7 @@ button {
 
 .footer-form-subscribe {
     display: flex;
+    
     margin-left: auto;
     align-items: flex-end;
 }
